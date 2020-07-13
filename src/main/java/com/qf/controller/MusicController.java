@@ -5,7 +5,6 @@ import com.github.pagehelper.PageInfo;
 import com.qf.pojo.Music;
 import com.qf.service.MusicService;
 import io.swagger.annotations.*;
-import io.swagger.models.auth.In;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
